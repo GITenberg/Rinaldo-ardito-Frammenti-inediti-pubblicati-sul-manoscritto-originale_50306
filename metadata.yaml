@@ -1,0 +1,35 @@
+_repo: Rinaldo-ardito-Frammenti-inediti-pubblicati-sul-manoscritto-originale_50306
+contributor:
+  creator:
+    editors:
+    - agent_name: Aiazzi, Giuseppe
+      gutenberg_agent_id: '45812'
+      url: http://www.gutenberg.org/2009/agents/45812
+    - agent_name: Giampieri, Innocenzo
+      gutenberg_agent_id: '45813'
+      url: http://www.gutenberg.org/2009/agents/45813
+creator:
+  author:
+    agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariost, Lodovico
+    - Ariosto, Ludovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2015-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50306'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Rinaldo ardito
+
+  Frammenti inediti pubblicati sul manoscritto originale'
+url: http://www.gutenberg.org/ebooks/50306
