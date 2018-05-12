@@ -1,4 +1,5 @@
 _repo: Rinaldo-ardito-Frammenti-inediti-pubblicati-sul-manoscritto-originale_50306
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -8,6 +9,9 @@ contributor:
     - agent_name: Giampieri, Innocenzo
       gutenberg_agent_id: '45813'
       url: http://www.gutenberg.org/2009/agents/45813
+covers:
+- cover_type: archival
+  image_path: 50306-h/images/cover.jpg
 creator:
   author:
     agent_name: Ariosto, Lodovico
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/322
     wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50306#Rinaldo-ardito-Frammenti-inediti-pubblicati-sul-manoscritto-originale
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2015-10-25'
 gutenberg_type: Text
