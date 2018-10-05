@@ -35,6 +35,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Rinaldo ardito
 
   Frammenti inediti pubblicati sul manoscritto originale'
